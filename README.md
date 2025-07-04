@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Naiqing Cao 👋</h1>
 
 <p align="center">
-  <em>Fullstack Developer | Angular & Java | UI/UX Enthusiast | Open to work</em>
+  <em>Fullstack Developer | Angular & Java | UI/UX | Open to work</em>
 </p>
 
 <p align="center">
