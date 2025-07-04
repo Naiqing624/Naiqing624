@@ -44,10 +44,14 @@
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-000000?logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
+
 
 ---
 
