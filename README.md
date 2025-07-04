@@ -65,9 +65,14 @@
 
 ### 📊 GitHub Stats
 
-![Naiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naiqing624&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naiqing624&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naiqing624&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naiqing624&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiqing624&layout=compact&theme=tokyonight)
 
 
 
