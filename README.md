@@ -51,6 +51,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naiqing624&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
+### 📊 GitHub Stats
+
+![Naiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naiqing624&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiqing624&layout=compact&theme=tokyonight)
+
+
+
