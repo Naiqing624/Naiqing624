@@ -23,6 +23,8 @@
 
 ### 🚀 Tech Stack
 
+### 🚀 Tech Stack
+
 #### Front-end  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -36,27 +38,42 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
 </p>
 
-#### Database  
+#### Database & ORM  
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-grey" />
 </p>
 
+#### DevOps & Infrastructure  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+</p>
 
-#### Others  
+#### CMS & Tools  
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+#### Languages & Misc  
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Makefile-000000?logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+#### Design  
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
+
 
 
 ---
