@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Naiqing624"><img src="https://img.shields.io/github/followers/Naiqing624?style=social" alt="GitHub followers"></a>
   <a href="mailto:naiqing.cao24@gmail.com"><img src="https://img.shields.io/badge/email-naiqing.cao24@gmail.com-red"></a>
 </p>
 
